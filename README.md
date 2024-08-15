@@ -1,0 +1,2 @@
+# Quick Notes
+###"Welcome to my collection of cheatsheets and quick notes! This repo is packed with handy, bite-sized guides covering key concepts, commands, and tips for various programming languages and tools. Whether you're prepping for an interview, brushing up on skills, or just need a quick reference, these notes are designed to help you find what you need fast. Dive in and explore—feel free to contribute or suggest improvements
